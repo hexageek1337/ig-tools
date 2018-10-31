@@ -90,6 +90,7 @@ console.log(chalk`
 {bold Instagram Unfollow All Following}
 {green BC0DE.NET - NAONLAH.NET - WingKocoli}
 {bold.red Code By Ccocot | ccocot@bc0de.net}
+{bold.red Fixed By IsaNoorendra}
 `);
 
 inquirer.prompt(User)

@@ -138,6 +138,7 @@ console.log(chalk`
 {bold Instagram Unfollow not Followback Tools Media}
 {green BC0DE.NET - NAONLAH.NET - WingKocoli}
 {bold.red Code By Ccocot | ccocot@bc0de.net}
+{bold.red Fixed By IsaNoorendra}
 `);
 
 inquirer.prompt(User)
