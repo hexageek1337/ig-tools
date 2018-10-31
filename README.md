@@ -1,5 +1,7 @@
 Based on https://github.com/jrxuii/igbotmay
 .
+
+
 Tutor Termux (Fresh) :
   1. pkg install nodejs-lts
   2. pkg install git
